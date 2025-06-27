@@ -45,11 +45,5 @@ Building projects and leveling up skills.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Engtouil&theme=tokyonight" width="48%" />
 </p>
 
----
-
-### 📬 Contact Me  
-[![Gmail](https://img.shields.io/badge/-mohammed20touil@gmail.com-D14836?logo=gmail&logoColor=fff&style=flat)](mailto:mohammed20touil@gmail.com)
-
----
 
 > “Turn bugs into badges. Keep coding, keep growing.”
