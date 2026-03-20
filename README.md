@@ -1,14 +1,14 @@
 # 👋 Hey, I'm Mohammed Touil!
 
-I'm a **2nd-year Engineering student at ISGA** focused on low-level systems, performance tools, and the intersection of software and hardware. I build things that interact directly with the OS — not just apps that sit on top of it.
+I'm a **2nd-year Engineering student at ISGA Fès** focused on low-level systems, performance tools, and the intersection of software and hardware. I build things that interact directly with the OS — not just apps that sit on top of it.
 
 ---
 
 ### 🛠️ What I'm working on right now
 
 - **[Windows System Optimizer](https://github.com/EngTouil/Windows-System-Optimizer)** — A standalone Python tool for direct RAM control, deep junk cleaning, Game Mode, and auto-scheduled maintenance. v1.0.0 Beta is live.
-- **Portfolio Website** 🏗️ — Under active development. A central hub for my engineering projects and work.
-- **Networking** — Studying network architecture, OSI models, and secure data flow management.
+- **[Portfolio Website](https://engtouil.github.io/portfolio)** 🌐 — Live! Built from scratch with plain HTML, CSS, and JavaScript — no frameworks, no build tools.
+- **Networking** — Studying network architecture, OSI models, and secure data flow management. Currently working toward my **CCNA**.
 - **System Scripting** — Experimenting with Python automation scripts to push Windows further.
 
 ---
@@ -43,4 +43,5 @@ I'm a **2nd-year Engineering student at ISGA** focused on low-level systems, per
 
 ### 📫 Let's Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-engtouil.github.io/portfolio-0078d7?style=flat-square&logo=github&logoColor=white)](https://engtouil.github.io/portfolio)
 [![Email](https://img.shields.io/badge/Email-mohamed20touil@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed20touil@gmail.com)
