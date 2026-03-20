@@ -7,7 +7,7 @@ I'm a **2nd-year Engineering student at ISGA Fès** focused on low-level systems
 ### 🛠️ What I'm working on right now
 
 - **[Windows System Optimizer](https://github.com/EngTouil/Windows-System-Optimizer)** — A standalone Python tool for direct RAM control, deep junk cleaning, Game Mode, and auto-scheduled maintenance. v1.0.0 Beta is live.
-- **[Portfolio Website](engtouil.github.io/Mohammed-Touil-Portfolio)** 🌐 — Live! Built from scratch with plain HTML, CSS, and JavaScript — no frameworks, no build tools.
+- **[Portfolio Website](https://github.com/EngTouil/Mohammed-Touil-Portfolio)** 🏗️ — Under active development. Built from scratch with plain HTML, CSS, and JavaScript — no frameworks, no build tools.
 - **Networking** — Studying network architecture, OSI models, and secure data flow management. Currently working toward my **CCNA**.
 - **System Scripting** — Experimenting with Python automation scripts to push Windows further.
 
@@ -43,5 +43,4 @@ I'm a **2nd-year Engineering student at ISGA Fès** focused on low-level systems
 
 ### 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-engtouil.github.io/portfolio-0078d7?style=flat-square&logo=github&logoColor=white)](https://engtouil.github.io/portfolio)
 [![Email](https://img.shields.io/badge/Email-mohamed20touil@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed20touil@gmail.com)
